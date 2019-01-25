@@ -16,6 +16,6 @@ function doWhileLoop(array) {
   do {
     console.log(array.push())
   } while (array.length > 0 && incrementVariable()) {
-      console.log(array.push())
+     
   }
 }
